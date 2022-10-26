@@ -1,0 +1,35 @@
+Elton John
+34
+42
+9
+7
+John Cena
+34
+156
+11
+6
+Barrack Obama
+37
+678
+10
+9
+John Rambo
+28
+220
+6
+5
+Justin Beiber
+20
+15
+8
+7
+Hillary Clinton
+35
+1743
+11
+7
+Donald Trump
+39
+804
+12
+11
